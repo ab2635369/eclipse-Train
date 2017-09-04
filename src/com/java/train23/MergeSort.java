@@ -48,6 +48,7 @@ public class MergeSort {
 		int[] list = {2,3,2,5,6,1,-2,3,14,12};
 		mergeSort(list);
 		//Arrays.sort(list);
+		//测试dev
 		for (int i = 0; i < list.length; i++) {
 			System.out.print(list[i] + " ");
 		}
